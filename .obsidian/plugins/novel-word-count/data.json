@@ -14957,6 +14957,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "README.txt": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 174,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.58,
+      "characterCount": 1130,
+      "nonWhitespaceCharacterCount": 942,
+      "readingTimeInMinutes": 0.6566037735849056,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741347105920,
+      "modifiedDate": 1741347198873,
+      "sizeInBytes": 1130,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
