@@ -54,3 +54,5 @@ https://www.allrecipes.com/recipe/13041/my-best-clam-chowder/
 [[Korean Fried Chicken Wings]]
 [[kombu tsukudani]]
 [[Furikake|furikake]]
+[[Carnitas]]
+[[Beef Stroganoff]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/European/Italian/Pasta al Limone.md",
-                "mode": "preview",
+                "file": "Technical/TODO.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pasta al Limone"
+              "title": "TODO"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "active": "b61252cf0d803fe3",
   "lastOpenFiles": [
+    "Recipes/European/Italian/Pasta al Limone.md",
     "Recipes/American/Mac & Cheese with Ham & Leek.md",
     "Recipes/European/Italian/Fried Gnocchi with Peas & Garlic Butter.md",
     "Recipes/European/Italian/Creamy Macaroni with Chicken & Mushrooms.md",
@@ -176,7 +177,6 @@
     "Iriko Dashi.md",
     "Dashi.md",
     "Recipes/European/Italian/Pasta Pesto.md",
-    "Recipes/European/Italian/Pasta al Limone.md",
     "Recipes/Asian/Mushroom Fried Rice.md",
     "Recipes/Asian/Chinese/Kung Pao Chicken.md",
     "Recipes/Fusion/French Onion Soup Pasta.md",
