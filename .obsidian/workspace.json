@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/European/Italian/Garlic Butter Chicken Orzo.md",
-                "mode": "source",
+                "file": "Ingredients/5 Spices.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garlic Butter Chicken Orzo"
+              "title": "5 Spices"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/European/Italian/Garlic Butter Chicken Orzo.md",
+                "file": "Ingredients/5 Spices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Garlic Butter Chicken Orzo"
+              "title": "Backlinks for 5 Spices"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tomato.md",
+                "file": "Ingredients/Tomato.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,10 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f385883051a683",
+  "active": "ad1a63a60fbf398b",
   "lastOpenFiles": [
+    "yippee.md",
+    "Recipes/European/Italian/Garlic Butter Chicken Orzo.md",
     "LICENSE",
-    "README.md",
+    "Ingredients/README.md",
     "Recipes/European/Italian/Gremolata.md",
     "Recipes/European/Italian/Homemade Pesto.md",
     "Recipes/European/Italian/Pasta Pesto Caprese.md",
@@ -204,7 +206,6 @@
     "Recipes/European/Italian/Spinach Pasta with Caramelised Onion.md",
     "Recipes/European/Italian/Pasta Carbonara.md",
     "Recipes/European/Italian/Pasta al Limone.md",
-    "Recipes/European/Italian/Garlic Butter Chicken Orzo.md",
     "Recipes/Asian/Chicken & Broccoli in Soy Dressing.md",
     "Recipes/Asian/Fried Soy with Vegetables.md",
     "Recipes/Asian/Chinese/Zha Jiang Mian (炸酱面）.md",
@@ -225,7 +226,6 @@
     "Ingredients/Food/Meat",
     "Ingredients/Food/Spices/Untitled",
     "Ingredients/Food/Spices",
-    "Ingredients/Food/Herbs",
     "Untitled.canvas"
   ]
 }

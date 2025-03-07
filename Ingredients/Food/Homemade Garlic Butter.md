@@ -5,7 +5,7 @@
 - 1 tsp [[Garlic Salt|garlic salt]]
 - 1 tsp [[Italian Seasoning|italian seasoning]]
 - 1/2 tsp [[Black Pepper|ground black pepper]]
-- 1/4 tsp [[paprika|paprika]]
+- 1/4 tsp [[Paprika|Paprika]]
 # Notes
 - 16 servings
 - Requirements: Bowl

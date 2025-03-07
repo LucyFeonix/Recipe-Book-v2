@@ -3,7 +3,7 @@
 - 2 medium [[Yellow Onion|yellow onions]]
 - 15g [[Parsley|parsley]]
 - 4 tbsp [[Olive Oil|olive oil]]
-- 200g [[Bacon|bacon bits]] / *1 [[Vegetable Stock|vegetable stock cube]]*
+- 200g [[Bacon|bacon bits]] / *1 [[Vegetable stock|vegetable stock cube]]*
 - 2 tbsp [[Vinegar|red wine vinegar]]
 - 1 [[Chinese Cabbage|chinese cabbage]]
 - 2 tsp [[Five Spices blend|five spices blend]]

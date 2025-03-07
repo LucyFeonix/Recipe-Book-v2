@@ -1,6 +1,6 @@
 # Ingredients
 - 1 cup [[Grits|grits]]
-- 4 cups [[Chicken Stock|chicken stock]] or [[Vegetable Stock|vegetable stock]]
+- 4 cups [[Chicken Stock|chicken stock]] or [[Vegetable stock|vegetable stock]]
 - 4 tbsp [[Unsalted Butter|unsalted butter]]
 - 1/4 cup [[Cream|cream]]
 - 3/4 tsp [[Salt|fine sea salt]]

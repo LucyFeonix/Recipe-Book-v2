@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "Technical/Images"
+  "attachmentFolderPath": "Technical/Images",
+  "alwaysUpdateLinks": true
 }

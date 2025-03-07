@@ -2,7 +2,7 @@
 - 1 1/2 tbsp [[Oil|oil]]
 - 1 medium [[Yellow Onion|yellow onion]], chopped
 - 1 red [[Bell Pepper|bell pepper]], chopped
-- 1 green [[Bell pepper|bell pepper]], chopped
+- 1 green [[Bell Pepper|bell pepper]], chopped
 - 1 [[Habanero|habanero pepper]]
 - 1 tbsp [[Tomato Paste|tomato paste]]
 - 2 tsp [[Thyme|thyme]], minced

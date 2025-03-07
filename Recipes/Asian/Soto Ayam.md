@@ -5,7 +5,7 @@
 - 4 cloves [[Garlic|garlic]]
 - 4 [[Egg|eggs]]
 - 3 [[Salam Leaf|salam leaves]]
-- 1.5L [[Chicken Stock|chicken stock]] or [[Vegetable Stock|vegetable stock]]
+- 1.5L [[Chicken Stock|chicken stock]] or [[Vegetable stock|vegetable stock]]
 - 1 [[Yellow Onion|yellow onion]] or 2 [[Shallots|shallots]]
 - 1 stalk [[Lemongrass|lemongrass]]
 - 3 tbsp [[Sweet Soy Sauce|sweet soy sauce]]

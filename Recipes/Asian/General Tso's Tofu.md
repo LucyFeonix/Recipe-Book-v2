@@ -11,7 +11,7 @@
 - 7 whole dried [[Chinese Red Chilli Peppers|chinese red chilli peppers]]
 - 1/2 [[Bell Pepper|red bell pepper]]
 - 1/2 tbsp [[Shaoxing Cooking Wine|shaoxing wine]]
-- 1 cup [[Vegetable Stock|vegetable stock]]
+- 1 cup [[Vegetable stock|vegetable stock]]
 - 1 [[Broccoli|broccoli]]
 - 1 1/2 tbsp [[Light Soy Sauce|light soy sauce]]
 - 1 tsp [[Dark Soy Sauce|dark soy sauce]]

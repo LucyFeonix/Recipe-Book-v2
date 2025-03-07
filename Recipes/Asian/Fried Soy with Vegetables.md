@@ -3,7 +3,7 @@
 - 3 tbsp [[Light Soy Sauce|light soy sauce]]
 - 2 1/2 tbsp [[Shaoxing Cooking Wine|shaoxing wine]] or [[Dry Sherry|dry sherry]]
 - 3 tsp [[Sesame Oil|sesame oil]]
-- 1/3 cup [[Chicken Broth|chicken broth]], [[Vegetable Stock|vegetable broth]] or water
+- 1/3 cup [[Chicken Broth|chicken broth]], [[Vegetable stock|vegetable broth]] or water
 - 1 tsp [[Brown Sugar|brown sugar]]
 - 1 tsp [[Corn Starch|corn starch]]
 - 6 medium [[Scallions|scallions]], white parts minced and greens sliced

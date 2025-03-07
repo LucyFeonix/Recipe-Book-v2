@@ -1,5 +1,5 @@
 # Ingredients
-- 1 [[Red pepper|red pepper]]
+- 1 [[Red Pepper|red pepper]]
 - 1 [[Red Onion|red onion]]
 - 15g [[Oregano|oregano]]
 - 1 clove [[Garlic|garlic]]

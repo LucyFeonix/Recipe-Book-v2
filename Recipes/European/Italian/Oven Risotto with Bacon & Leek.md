@@ -2,7 +2,7 @@
 - 200g [[Bacon|bacon bits]]
 - 3 [[Leek|leeks]]
 - 300g [[Rice|risotto rice]]
-- 750ml [[Vegetable Stock|vegetable stock]]
+- 750ml [[Vegetable stock|vegetable stock]]
 - 225g [[Garden Peas|garden peas]]
 - 125g [[Crème Fraîche|crème fraîche]]
 # Notes
