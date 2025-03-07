@@ -24,7 +24,7 @@ https://www.allrecipes.com/recipe/13041/my-best-clam-chowder/
 [[Teriyaki Chicken]]
 [[Sesame Chicken (zhi ma ji)]]
 [[Kyoto Pork Ribs (Jin Du Pai Gu)]]
-[[Jiaozi]]
+[[Jiaozi (饺子)]]
 [[Korean BBQ Chicken (Bulgogi)]]
 [[Chicken Panang]]
 [[Yao Yan Yu]]

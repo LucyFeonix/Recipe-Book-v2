@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredients/5 Spices.md",
-                "mode": "preview",
+                "file": "Recipes/Asian/Chinese/Jiaozi (饺子).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Spices"
+              "title": "Jiaozi (饺子)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingredients/5 Spices.md",
+                "file": "Recipes/Asian/Chinese/Jiaozi (饺子).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5 Spices"
+              "title": "Backlinks for Jiaozi (饺子)"
             }
           },
           {
@@ -188,6 +188,8 @@
   },
   "active": "ad1a63a60fbf398b",
   "lastOpenFiles": [
+    "Recipes/Asian/Chinese/Jiaozi (饺子).md",
+    "Ingredients/5 Spices.md",
     "README.txt",
     "New Text Document.txt",
     "yippee.md",
@@ -215,7 +217,6 @@
     "Recipes/Asian/Chinese/Mapo Tofu (麻婆豆腐).md",
     "Recipes/Asian/Chinese/Re Gan Mian (热干面).md",
     "Recipes/American/Mac & Cheese with Ham & Leek.md",
-    "Recipes/American/Mexican/Chicken Enchiladas Verdes.md",
     "Technical/Images/Pasted image 20250219030836.png",
     "Ingredients/Food/Stock",
     "Ingredients/Food/Meat/Beef",
@@ -225,7 +226,6 @@
     "Technical/Images/Pasted image 20241208192452.png",
     "Ingredients/Food/Onions",
     "Ingredients/Food/Meat",
-    "Ingredients/Food/Spices/Untitled",
     "Untitled.canvas"
   ]
 }
