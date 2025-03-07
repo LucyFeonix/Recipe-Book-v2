@@ -14,9 +14,6 @@ https://www.lecremedelacrumb.com/best-super-moist-cornbread/
 https://www.allrecipes.com/recipe/216888/good-new-orleans-creole-gumbo/
 https://www.allrecipes.com/recipe/31848/jambalaya/
 https://www.allrecipes.com/recipe/13041/my-best-clam-chowder/
-[[Suan La Tang (酸辣汤)]]
-[[Yuntun Tang Mian ( 云吞汤面)]]
-[[Miso Soup (味噌汁)]]
 [[Tom Kha Kai]]
 [[Yam Nua]]
 [[Pai Huang Gua]]
@@ -24,7 +21,6 @@ https://www.allrecipes.com/recipe/13041/my-best-clam-chowder/
 [[Teriyaki Chicken]]
 [[Sesame Chicken (zhi ma ji)]]
 [[Kyoto Pork Ribs (Jin Du Pai Gu)]]
-[[Jiaozi (饺子)]]
 [[Korean BBQ Chicken (Bulgogi)]]
 [[Chicken Panang]]
 [[Yao Yan Yu]]

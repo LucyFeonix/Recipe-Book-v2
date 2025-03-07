@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Asian/Chinese/Jiaozi (饺子).md",
+                "file": "Technical/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jiaozi (饺子)"
+              "title": "TODO"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Asian/Chinese/Jiaozi (饺子).md",
+                "file": "Technical/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jiaozi (饺子)"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -186,8 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad1a63a60fbf398b",
+  "active": "03f385883051a683",
   "lastOpenFiles": [
+    "Ingredients/Miso Soup (味噌汁).md",
+    "Technical/TODO.md",
     "Recipes/Asian/Chinese/Jiaozi (饺子).md",
     "Ingredients/5 Spices.md",
     "README.txt",
@@ -200,7 +202,6 @@
     "Recipes/European/Italian/Homemade Pesto.md",
     "Recipes/European/Italian/Pasta Pesto Caprese.md",
     "Recipes/European/Chopforest.md",
-    "Technical/TODO.md",
     "Recipes/European/Italian/Spicy Cheese Pasta Alla Lucy.md",
     "Recipes/Asian/Sticky Chicken Bowl.md",
     "Recipes/Fusion/Bacon Mac & Cheese Burger Wrap.md",
@@ -216,7 +217,6 @@
     "Recipes/Asian/Chinese/Red Braised Chicken (红烧鸡).md",
     "Recipes/Asian/Chinese/Mapo Tofu (麻婆豆腐).md",
     "Recipes/Asian/Chinese/Re Gan Mian (热干面).md",
-    "Recipes/American/Mac & Cheese with Ham & Leek.md",
     "Technical/Images/Pasted image 20250219030836.png",
     "Ingredients/Food/Stock",
     "Ingredients/Food/Meat/Beef",
