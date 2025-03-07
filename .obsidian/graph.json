@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Course/Drink/Non-Alcoholic",
+      "color": {
+        "a": 1,
+        "rgb": 8448767
+      }
+    },
+    {
+      "query": "tag:#Course/Drink/Alcoholic",
+      "color": {
+        "a": 1,
+        "rgb": 34744
+      }
+    },
+    {
+      "query": "tag:#Course/Baking",
+      "color": {
+        "a": 1,
+        "rgb": 13472024
+      }
+    },
+    {
+      "query": "tag:#Diet/Vegan",
+      "color": {
+        "a": 1,
+        "rgb": 3899392
+      }
+    },
+    {
+      "query": "tag:#Diet/Vegetarian",
+      "color": {
+        "a": 1,
+        "rgb": 6938369
+      }
+    },
+    {
+      "query": "tag:#Diet/Pescatarian",
+      "color": {
+        "a": 1,
+        "rgb": 2372075
+      }
+    },
+    {
+      "query": "tag:#Diet/Meat",
+      "color": {
+        "a": 1,
+        "rgb": 12528136
+      }
+    },
+    {
+      "query": "tag:#Ingredient",
+      "color": {
+        "a": 1,
+        "rgb": 11228872
+      }
+    },
+    {
+      "query": "tag:#Utensil",
+      "color": {
+        "a": 1,
+        "rgb": 16743105
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.14139395731580592,
+  "close": true
+}

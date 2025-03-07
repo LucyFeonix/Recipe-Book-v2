@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "27ee0abedaf677e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0b7a1aa354b2b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61252cf0d803fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/European/Italian/Pasta al Limone.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pasta al Limone"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7483962c41c4b282",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aa2c2417991e0631",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9a5f147ffebec7f6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "709bd5fd791f8580",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "18ee91fb8989097a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ceca97e23cc55138",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "155ceffc77eb0cb1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Recipes/Asian/Chinese/Red Braised Chicken (红烧鸡).md",
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "397109b5d59e9dd8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Recipes/European/Italian/Creamy Macaroni with Chicken & Mushrooms.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d56d6178ff396722",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Recipes/Fusion/Chinese Cabbage Potpie.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "recipe-grabber:Recipe Grabber": false,
+      "recipe-view:Toggle recipe view": false
+    }
+  },
+  "active": "b61252cf0d803fe3",
+  "lastOpenFiles": [
+    "Recipes/American/Mac & Cheese with Ham & Leek.md",
+    "Recipes/European/Italian/Fried Gnocchi with Peas & Garlic Butter.md",
+    "Recipes/European/Italian/Creamy Macaroni with Chicken & Mushrooms.md",
+    "Recipes/Fusion/Bacon Mac & Cheese Burger Wrap.md",
+    "Recipes/European/French/Coq à la Bière.md",
+    "Recipes/Fusion/Chinese Cabbage Potpie.md",
+    "Recipes/American/USA/Chicken Parmesan.md",
+    "Recipes/Asian/Chinese/Egg Drop Soup.md",
+    "Recipes/Asian/Chinese/Red Braised Chicken (红烧鸡).md",
+    "Ingredients/Food/Corn Starch Slurry.md",
+    "Recipes/European/Rice Salad with Fennel, Spring Onion & Rocket.md",
+    "Kombu Dashi.md",
+    "Miso Soup (味噌汁).md",
+    "Shiitake Dashi.md",
+    "Awase Dashi.md",
+    "Katsuo Dashi.md",
+    "Vegan Dashi.md",
+    "Suan La Tang (酸辣汤).md",
+    "Iriko Dashi.md",
+    "Dashi.md",
+    "Recipes/European/Italian/Pasta Pesto.md",
+    "Recipes/European/Italian/Pasta al Limone.md",
+    "Recipes/Asian/Mushroom Fried Rice.md",
+    "Recipes/Asian/Chinese/Kung Pao Chicken.md",
+    "Recipes/Fusion/French Onion Soup Pasta.md",
+    "Recipes/Asian/Sticky Chicken Bowl.md",
+    "Recipes/African/South Africa",
+    "Recipes/Untitled",
+    "Ingredients/Food/Mushrooms",
+    "Technical/Images/Pasted image 20241208192452.png",
+    "Ingredients/Food/Spices/Peppers",
+    "Ingredients/Booze",
+    "Ingredients/Food",
+    "Recipes/Asian/Indian",
+    "Recipes/Asian/Chinese",
+    "Recipes/American/Mexican",
+    "Recipes/American/USA",
+    "Technical/Images/IMG_1357.jpeg",
+    "Technical/Images/IMG_3867.webp",
+    "IMG_4480.jpeg"
+  ]
+}
